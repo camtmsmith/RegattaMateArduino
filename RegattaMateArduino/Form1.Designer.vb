@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Label1 = New Label()
         Button1 = New Button()
         SuspendLayout()
@@ -31,9 +32,9 @@ Partial Class Form1
         Label1.AutoSize = True
         Label1.Location = New Point(0, 0)
         Label1.Name = "Label1"
-        Label1.Size = New Size(54, 15)
+        Label1.Size = New Size(63, 15)
         Label1.TabIndex = 0
-        Label1.Text = "Version 1"
+        Label1.Text = "Version 1.1"
         ' 
         ' Button1
         ' 
@@ -51,6 +52,7 @@ Partial Class Form1
         ClientSize = New Size(800, 450)
         Controls.Add(Button1)
         Controls.Add(Label1)
+        Icon = CType(resources.GetObject("$this.Icon"), Icon)
         Name = "Form1"
         Text = "Form1"
         ResumeLayout(False)
