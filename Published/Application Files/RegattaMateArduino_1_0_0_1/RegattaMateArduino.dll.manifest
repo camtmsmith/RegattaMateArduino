@@ -63,22 +63,22 @@
       <dsig:DigestValue>PSvK1QeoGW7DPUtkMOpfn9zH9MoQjxSNPMRKWnjutzo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="RegattaMateArduino.dll" size="17920">
+  <file name="RegattaMateArduino.dll" size="16896">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ozG1vu078AnqQkQWD6IxvFMHIgpwgBJDGhd5t2mzeNg=</dsig:DigestValue>
+      <dsig:DigestValue>M+4YGKrzKJla9Z/n+hI7gNrqX4n6nd6ZoJGaFiZYcPo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="RegattaMateArduino.exe" size="141824">
+  <file name="RegattaMateArduino.exe" size="140800">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>OICgf8j52uPHxljHlnynMl8dvyjMkaKQRor+bTgitnM=</dsig:DigestValue>
+      <dsig:DigestValue>NAecAwlNISn3YplJe0sLvVb5VFztEHtZp2551lyc3PU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RegattaMateArduino.runtimeconfig.json" size="515">
