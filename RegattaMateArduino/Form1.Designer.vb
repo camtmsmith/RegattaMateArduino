@@ -34,7 +34,7 @@ Partial Class Form1
         Label1.Name = "Label1"
         Label1.Size = New Size(63, 15)
         Label1.TabIndex = 0
-        Label1.Text = "Version 1.1"
+        Label1.Text = "Version 1.2"
         ' 
         ' Button1
         ' 
@@ -54,7 +54,7 @@ Partial Class Form1
         Controls.Add(Label1)
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         Name = "Form1"
-        Text = "Form1"
+        Text = "RegattaMate2"
         ResumeLayout(False)
         PerformLayout()
     End Sub
