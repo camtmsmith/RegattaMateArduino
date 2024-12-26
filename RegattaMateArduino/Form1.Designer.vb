@@ -30,7 +30,7 @@ Partial Class Form1
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(0, 0)
+        Label1.Location = New Point(141, 97)
         Label1.Name = "Label1"
         Label1.Size = New Size(63, 15)
         Label1.TabIndex = 0
@@ -38,7 +38,7 @@ Partial Class Form1
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(0, 18)
+        Button1.Location = New Point(283, 93)
         Button1.Name = "Button1"
         Button1.Size = New Size(75, 23)
         Button1.TabIndex = 1
